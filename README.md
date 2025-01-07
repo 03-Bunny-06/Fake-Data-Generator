@@ -45,6 +45,8 @@ How to Use:
 3. Enter the number of fake data entries you need when prompted.
 4. View the styled output in the console.
 
+<hr/>
+
 Notes:
 
 1. Be cautious when using fake credit card data in demonstrations, as they are for mock purposes only and do not represent valid financial information.
