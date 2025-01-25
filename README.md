@@ -51,3 +51,6 @@ Notes:
 
 1. Be cautious when using fake credit card data in demonstrations, as they are for mock purposes only and do not represent valid financial information.
 2. This script is designed for development and testing environments and should not be used in production without proper safeguards.
+
+![image](https://github.com/user-attachments/assets/1ce79ef2-4783-4e14-a232-d08e3490f217)
+
